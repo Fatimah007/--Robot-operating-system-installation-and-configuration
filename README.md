@@ -64,3 +64,5 @@ process[joint_state_publisher_gui-3]: started with pid [2840]
 [INFO] [1624545412.021853]: Centering
 
 ![image](https://user-images.githubusercontent.com/86019166/123297496-49472080-d520-11eb-9529-2c6845b66501.png)
+<img width="406" alt="Screen Shot 1442-11-14 at 5 40 11 PM" src="https://user-images.githubusercontent.com/86019166/123517417-783cce00-d6a9-11eb-96a9-db8785ac257e.png">
+
